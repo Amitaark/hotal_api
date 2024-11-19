@@ -1,0 +1,3 @@
+run  command git init
+run command git status
+run git add server.js onlyn server.js file load on git
