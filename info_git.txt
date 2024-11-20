@@ -1,3 +1,13 @@
-run  command git init
-run command git status
-run git add server.js onlyn server.js file load on git
+run command git init.
+run command git status.
+run command git add server.js onlyn server.js file load on git.
+run command git add . Load all file on git. after that check git status to green all files.
+run git rm -r --cached node_modules used command remove node_modules folder in git.
+run git commit -m "first version of our hotels" used to save snapshots (save) this code.
+create respository in git then copy and paste downward comand and paste.
+git remote add origin https://github.com/Amitaark/hotal_api.git  enter
+git branch -M main enter.
+git push -u origin main enter in terminal
+
+
+

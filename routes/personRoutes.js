@@ -86,6 +86,7 @@ router.delete("/:id", async (req, res) => {
     // Assuming you have a person model
     const response = await Person.findByIdAndDelete(personId);
 
+    // comment added
 
     if (!response) {
       return res.status(404).json({ error: "Person Not Found" });
